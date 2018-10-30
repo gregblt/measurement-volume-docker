@@ -1,0 +1,850 @@
+[
+    {
+        "label": "1",
+        "roi": "Left-Cerebral-Exterior"
+    },
+    {
+        "label": "2",
+        "roi": "Left-Cerebral-White-Matter"
+    },
+    {
+        "label": "3",
+        "roi": "Left-Cerebral-Cortex"
+    },
+    {
+        "label": "4",
+        "roi": "Left-Lateral-Ventricle"
+    },
+    {
+        "label": "5",
+        "roi": "Left-Inf-Lat-Vent"
+    },
+    {
+        "label": "6",
+        "roi": "Left-Cerebellum-Exterior"
+    },
+    {
+        "label": "7",
+        "roi": "Left-Cerebellum-White-Matter"
+    },
+    {
+        "label": "8",
+        "roi": "Left-Cerebellum-Cortex"
+    },
+    {
+        "label": "9",
+        "roi": "Left-Thalamus"
+    },
+    {
+        "label": "10",
+        "roi": "Left-Thalamus-Proper*"
+    },
+    {
+        "label": "11",
+        "roi": "Left-Caudate"
+    },
+    {
+        "label": "12",
+        "roi": "Left-Putamen"
+    },
+    {
+        "label": "13",
+        "roi": "Left-Pallidum"
+    },
+    {
+        "label": "14",
+        "roi": "3rd-Ventricle"
+    },
+    {
+        "label": "15",
+        "roi": "4th-Ventricle"
+    },
+    {
+        "label": "16",
+        "roi": "Brain-Stem"
+    },
+    {
+        "label": "17",
+        "roi": "Left-Hippocampus"
+    },
+    {
+        "label": "18",
+        "roi": "Left-Amygdala"
+    },
+    {
+        "label": "19",
+        "roi": "Left-Insula"
+    },
+    {
+        "label": "20",
+        "roi": "Left-Operculum"
+    },
+    {
+        "label": "21",
+        "roi": "Line-1"
+    },
+    {
+        "label": "22",
+        "roi": "Line-2"
+    },
+    {
+        "label": "23",
+        "roi": "Line-3"
+    },
+    {
+        "label": "24",
+        "roi": "CSF"
+    },
+    {
+        "label": "25",
+        "roi": "Left-Lesion"
+    },
+    {
+        "label": "26",
+        "roi": "Left-Accumbens-area"
+    },
+    {
+        "label": "27",
+        "roi": "Left-Substancia-Nigra"
+    },
+    {
+        "label": "28",
+        "roi": "Left-VentralDC"
+    },
+    {
+        "label": "29",
+        "roi": "Left-undetermined"
+    },
+    {
+        "label": "30",
+        "roi": "Left-vessel"
+    },
+    {
+        "label": "31",
+        "roi": "Left-choroid-plexus"
+    },
+    {
+        "label": "32",
+        "roi": "Left-F3orb"
+    },
+    {
+        "label": "33",
+        "roi": "Left-lOg"
+    },
+    {
+        "label": "34",
+        "roi": "Left-aOg"
+    },
+    {
+        "label": "35",
+        "roi": "Left-mOg"
+    },
+    {
+        "label": "36",
+        "roi": "Left-pOg"
+    },
+    {
+        "label": "37",
+        "roi": "Left-Stellate"
+    },
+    {
+        "label": "38",
+        "roi": "Left-Porg"
+    },
+    {
+        "label": "39",
+        "roi": "Left-Aorg"
+    },
+    {
+        "label": "40",
+        "roi": "Right-Cerebral-Exterior"
+    },
+    {
+        "label": "41",
+        "roi": "Right-Cerebral-White-Matter"
+    },
+    {
+        "label": "42",
+        "roi": "Right-Cerebral-Cortex"
+    },
+    {
+        "label": "43",
+        "roi": "Right-Lateral-Ventricle"
+    },
+    {
+        "label": "44",
+        "roi": "Right-Inf-Lat-Vent"
+    },
+    {
+        "label": "45",
+        "roi": "Right-Cerebellum-Exterior"
+    },
+    {
+        "label": "46",
+        "roi": "Right-Cerebellum-White-Matter"
+    },
+    {
+        "label": "47",
+        "roi": "Right-Cerebellum-Cortex"
+    },
+    {
+        "label": "48",
+        "roi": "Right-Thalamus"
+    },
+    {
+        "label": "49",
+        "roi": "Right-Thalamus-Proper*"
+    },
+    {
+        "label": "50",
+        "roi": "Right-Caudate"
+    },
+    {
+        "label": "51",
+        "roi": "Right-Putamen"
+    },
+    {
+        "label": "52",
+        "roi": "Right-Pallidum"
+    },
+    {
+        "label": "53",
+        "roi": "Right-Hippocampus"
+    },
+    {
+        "label": "54",
+        "roi": "Right-Amygdala"
+    },
+    {
+        "label": "55",
+        "roi": "Right-Insula"
+    },
+    {
+        "label": "56",
+        "roi": "Right-Operculum"
+    },
+    {
+        "label": "57",
+        "roi": "Right-Lesion"
+    },
+    {
+        "label": "58",
+        "roi": "Right-Accumbens-area"
+    },
+    {
+        "label": "59",
+        "roi": "Right-Substancia-Nigra"
+    },
+    {
+        "label": "60",
+        "roi": "Right-VentralDC"
+    },
+    {
+        "label": "61",
+        "roi": "Right-undetermined"
+    },
+    {
+        "label": "62",
+        "roi": "Right-vessel"
+    },
+    {
+        "label": "63",
+        "roi": "Right-choroid-plexus"
+    },
+    {
+        "label": "64",
+        "roi": "Right-F3orb"
+    },
+    {
+        "label": "65",
+        "roi": "Right-lOg"
+    },
+    {
+        "label": "66",
+        "roi": "Right-aOg"
+    },
+    {
+        "label": "67",
+        "roi": "Right-mOg"
+    },
+    {
+        "label": "68",
+        "roi": "Right-pOg"
+    },
+    {
+        "label": "69",
+        "roi": "Right-Stellate"
+    },
+    {
+        "label": "70",
+        "roi": "Right-Porg"
+    },
+    {
+        "label": "71",
+        "roi": "Right-Aorg"
+    },
+    {
+        "label": "72",
+        "roi": "5th-Ventricle"
+    },
+    {
+        "label": "73",
+        "roi": "Left-Interior"
+    },
+    {
+        "label": "74",
+        "roi": "Right-Interior"
+    },
+    {
+        "label": "77",
+        "roi": "WM-hypointensities"
+    },
+    {
+        "label": "78",
+        "roi": "Left-WM-hypointensities"
+    },
+    {
+        "label": "79",
+        "roi": "Right-WM-hypointensities"
+    },
+    {
+        "label": "80",
+        "roi": "non-WM-hypointensities"
+    },
+    {
+        "label": "81",
+        "roi": "Left-non-WM-hypointensities"
+    },
+    {
+        "label": "82",
+        "roi": "Right-non-WM-hypointensities"
+    },
+    {
+        "label": "83",
+        "roi": "Left-F1"
+    },
+    {
+        "label": "84",
+        "roi": "Right-F1"
+    },
+    {
+        "label": "85",
+        "roi": "Optic-Chiasm"
+    },
+    {
+        "label": "192",
+        "roi": "Corpus_Callosum"
+    },
+    {
+        "label": "86",
+        "roi": "Left_future_WMSA"
+    },
+    {
+        "label": "87",
+        "roi": "Right_future_WMSA"
+    },
+    {
+        "label": "88",
+        "roi": "future_WMSA"
+    },
+    {
+        "label": "96",
+        "roi": "Left-Amygdala-Anterior"
+    },
+    {
+        "label": "97",
+        "roi": "Right-Amygdala-Anterior"
+    },
+    {
+        "label": "98",
+        "roi": "Dura"
+    },
+    {
+        "label": "100",
+        "roi": "Left-wm-intensity-abnormality"
+    },
+    {
+        "label": "101",
+        "roi": "Left-caudate-intensity-abnormality"
+    },
+    {
+        "label": "102",
+        "roi": "Left-putamen-intensity-abnormality"
+    },
+    {
+        "label": "103",
+        "roi": "Left-accumbens-intensity-abnormality"
+    },
+    {
+        "label": "104",
+        "roi": "Left-pallidum-intensity-abnormality"
+    },
+    {
+        "label": "105",
+        "roi": "Left-amygdala-intensity-abnormality"
+    },
+    {
+        "label": "106",
+        "roi": "Left-hippocampus-intensity-abnormality"
+    },
+    {
+        "label": "107",
+        "roi": "Left-thalamus-intensity-abnormality"
+    },
+    {
+        "label": "108",
+        "roi": "Left-VDC-intensity-abnormality"
+    },
+    {
+        "label": "109",
+        "roi": "Right-wm-intensity-abnormality"
+    },
+    {
+        "label": "110",
+        "roi": "Right-caudate-intensity-abnormality"
+    },
+    {
+        "label": "111",
+        "roi": "Right-putamen-intensity-abnormality"
+    },
+    {
+        "label": "112",
+        "roi": "Right-accumbens-intensity-abnormality"
+    },
+    {
+        "label": "113",
+        "roi": "Right-pallidum-intensity-abnormality"
+    },
+    {
+        "label": "114",
+        "roi": "Right-amygdala-intensity-abnormality"
+    },
+    {
+        "label": "115",
+        "roi": "Right-hippocampus-intensity-abnormality"
+    },
+    {
+        "label": "116",
+        "roi": "Right-thalamus-intensity-abnormality"
+    },
+    {
+        "label": "117",
+        "roi": "Right-VDC-intensity-abnormality"
+    },
+    {
+        "label": "118",
+        "roi": "Epidermis"
+    },
+    {
+        "label": "119",
+        "roi": "Conn-Tissue"
+    },
+    {
+        "label": "120",
+        "roi": "SC-Fat-Muscle"
+    },
+    {
+        "label": "121",
+        "roi": "Cranium"
+    },
+    {
+        "label": "122",
+        "roi": "CSF-SA"
+    },
+    {
+        "label": "123",
+        "roi": "Muscle"
+    },
+    {
+        "label": "124",
+        "roi": "Ear"
+    },
+    {
+        "label": "125",
+        "roi": "Adipose"
+    },
+    {
+        "label": "126",
+        "roi": "Spinal-Cord"
+    },
+    {
+        "label": "127",
+        "roi": "Soft-Tissue"
+    },
+    {
+        "label": "128",
+        "roi": "Nerve"
+    },
+    {
+        "label": "129",
+        "roi": "Bone"
+    },
+    {
+        "label": "130",
+        "roi": "Air"
+    },
+    {
+        "label": "131",
+        "roi": "Orbital-Fat"
+    },
+    {
+        "label": "132",
+        "roi": "Tongue"
+    },
+    {
+        "label": "133",
+        "roi": "Nasal-Structures"
+    },
+    {
+        "label": "134",
+        "roi": "Globe"
+    },
+    {
+        "label": "135",
+        "roi": "Teeth"
+    },
+    {
+        "label": "136",
+        "roi": "Left-Caudate-Putamen"
+    },
+    {
+        "label": "137",
+        "roi": "Right-Caudate-Putamen"
+    },
+    {
+        "label": "138",
+        "roi": "Left-Claustrum"
+    },
+    {
+        "label": "139",
+        "roi": "Right-Claustrum"
+    },
+    {
+        "label": "140",
+        "roi": "Cornea"
+    },
+    {
+        "label": "142",
+        "roi": "Diploe"
+    },
+    {
+        "label": "143",
+        "roi": "Vitreous-Humor"
+    },
+    {
+        "label": "144",
+        "roi": "Lens"
+    },
+    {
+        "label": "145",
+        "roi": "Aqueous-Humor"
+    },
+    {
+        "label": "146",
+        "roi": "Outer-Table"
+    },
+    {
+        "label": "147",
+        "roi": "Inner-Table"
+    },
+    {
+        "label": "148",
+        "roi": "Periosteum"
+    },
+    {
+        "label": "149",
+        "roi": "Endosteum"
+    },
+    {
+        "label": "150",
+        "roi": "R-C-S"
+    },
+    {
+        "label": "151",
+        "roi": "Iris"
+    },
+    {
+        "label": "152",
+        "roi": "SC-Adipose-Muscle"
+    },
+    {
+        "label": "153",
+        "roi": "SC-Tissue"
+    },
+    {
+        "label": "154",
+        "roi": "Orbital-Adipose"
+    },
+    {
+        "label": "155",
+        "roi": "Left-IntCapsule-Ant"
+    },
+    {
+        "label": "156",
+        "roi": "Right-IntCapsule-Ant"
+    },
+    {
+        "label": "157",
+        "roi": "Left-IntCapsule-Pos"
+    },
+    {
+        "label": "158",
+        "roi": "Right-IntCapsule-Pos"
+    },
+    {
+        "label": "159",
+        "roi": "Left-Cerebral-WM-unmyelinated"
+    },
+    {
+        "label": "160",
+        "roi": "Right-Cerebral-WM-unmyelinated"
+    },
+    {
+        "label": "161",
+        "roi": "Left-Cerebral-WM-myelinated"
+    },
+    {
+        "label": "162",
+        "roi": "Right-Cerebral-WM-myelinated"
+    },
+    {
+        "label": "163",
+        "roi": "Left-Subcortical-Gray-Matter"
+    },
+    {
+        "label": "164",
+        "roi": "Right-Subcortical-Gray-Matter"
+    },
+    {
+        "label": "165",
+        "roi": "Skull"
+    },
+    {
+        "label": "166",
+        "roi": "Posterior-fossa"
+    },
+    {
+        "label": "167",
+        "roi": "Scalp"
+    },
+    {
+        "label": "168",
+        "roi": "Hematoma"
+    },
+    {
+        "label": "169",
+        "roi": "Left-Basal-Ganglia"
+    },
+    {
+        "label": "176",
+        "roi": "Right-Basal-Ganglia"
+    },
+    {
+        "label": "170",
+        "roi": "brainstem"
+    },
+    {
+        "label": "171",
+        "roi": "DCG"
+    },
+    {
+        "label": "172",
+        "roi": "Vermis"
+    },
+    {
+        "label": "173",
+        "roi": "Midbrain"
+    },
+    {
+        "label": "174",
+        "roi": "Pons"
+    },
+    {
+        "label": "175",
+        "roi": "Medulla"
+    },
+    {
+        "label": "177",
+        "roi": "Vermis-White-Matter"
+    },
+    {
+        "label": "178",
+        "roi": "SCP"
+    },
+    {
+        "label": "179",
+        "roi": "Floculus"
+    },
+    {
+        "label": "180",
+        "roi": "Left-Cortical-Dysplasia"
+    },
+    {
+        "label": "181",
+        "roi": "Right-Cortical-Dysplasia"
+    },
+    {
+        "label": "182",
+        "roi": "CblumNodulus"
+    },
+    {
+        "label": "193",
+        "roi": "Left-hippocampal_fissure"
+    },
+    {
+        "label": "194",
+        "roi": "Left-CADG-head"
+    },
+    {
+        "label": "195",
+        "roi": "Left-subiculum"
+    },
+    {
+        "label": "196",
+        "roi": "Left-fimbria"
+    },
+    {
+        "label": "197",
+        "roi": "Right-hippocampal_fissure"
+    },
+    {
+        "label": "198",
+        "roi": "Right-CADG-head"
+    },
+    {
+        "label": "199",
+        "roi": "Right-subiculum"
+    },
+    {
+        "label": "200",
+        "roi": "Right-fimbria"
+    },
+    {
+        "label": "201",
+        "roi": "alveus"
+    },
+    {
+        "label": "202",
+        "roi": "perforant_pathway"
+    },
+    {
+        "label": "203",
+        "roi": "parasubiculum"
+    },
+    {
+        "label": "204",
+        "roi": "presubiculum"
+    },
+    {
+        "label": "205",
+        "roi": "subiculum"
+    },
+    {
+        "label": "206",
+        "roi": "CA1"
+    },
+    {
+        "label": "207",
+        "roi": "CA2"
+    },
+    {
+        "label": "208",
+        "roi": "CA3"
+    },
+    {
+        "label": "209",
+        "roi": "CA4"
+    },
+    {
+        "label": "210",
+        "roi": "GC-DG"
+    },
+    {
+        "label": "211",
+        "roi": "HATA"
+    },
+    {
+        "label": "212",
+        "roi": "fimbria"
+    },
+    {
+        "label": "213",
+        "roi": "lateral_ventricle"
+    },
+    {
+        "label": "214",
+        "roi": "molecular_layer_HP"
+    },
+    {
+        "label": "215",
+        "roi": "hippocampal_fissure"
+    },
+    {
+        "label": "216",
+        "roi": "entorhinal_cortex"
+    },
+    {
+        "label": "217",
+        "roi": "molecular_layer_subiculum"
+    },
+    {
+        "label": "218",
+        "roi": "Amygdala"
+    },
+    {
+        "label": "219",
+        "roi": "Cerebral_White_Matter"
+    },
+    {
+        "label": "220",
+        "roi": "Cerebral_Cortex"
+    },
+    {
+        "label": "221",
+        "roi": "Inf_Lat_Vent"
+    },
+    {
+        "label": "222",
+        "roi": "Perirhinal"
+    },
+    {
+        "label": "223",
+        "roi": "Cerebral_White_Matter_Edge"
+    },
+    {
+        "label": "224",
+        "roi": "Background"
+    },
+    {
+        "label": "225",
+        "roi": "Ectorhinal"
+    },
+    {
+        "label": "226",
+        "roi": "HP_tail"
+    },
+    {
+        "label": "250",
+        "roi": "Fornix"
+    },
+    {
+        "label": "251",
+        "roi": "CC_Posterior"
+    },
+    {
+        "label": "252",
+        "roi": "CC_Mid_Posterior"
+    },
+    {
+        "label": "253",
+        "roi": "CC_Central"
+    },
+    {
+        "label": "254",
+        "roi": "CC_Mid_Anterior"
+    },
+    {
+        "label": "255",
+        "roi": "CC_Anterior"
+    }
+]
